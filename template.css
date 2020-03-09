@@ -1,0 +1,8 @@
+.square {
+    height: 100px;
+    width: 100px;
+    background-color: tomato;
+    background-image: linear-gradient(-90deg, red 10%, tomato 80%);
+    border: 1px solid darkgrey;
+    border-radius: 5px;
+}
